@@ -1,2 +1,4 @@
 python-decouple
 pygithub
+
+black
